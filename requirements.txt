@@ -1,0 +1,14 @@
+transformers
+torch
+flask
+streamlit
+google-generativeai # google gemini
+python-dotenv #to create environment 
+langchain
+PyPDF2
+chromadb
+faiss-cpu #for cpu usage , or faissu gpu if have gpu
+langchain_google_genai #access apis of google generative ai
+langchain-community
+pypdf2
+langdetect
